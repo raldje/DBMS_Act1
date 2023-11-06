@@ -40,7 +40,7 @@
 <footer>
     <center>
         <p></p>
-        <p>ASENTISTA</p>
+        <p>ASENTISTAjerald</p>
     </center>
 </footer>
 
